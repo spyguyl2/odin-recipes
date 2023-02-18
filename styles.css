@@ -1,0 +1,15 @@
+* {
+    background-color: darkmagenta;
+    color:darkseagreen;
+    text-align: center;
+    font-family:'Times New Roman', Times, serif ;
+}
+
+p {
+    font-size: 24px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+li {
+    font-size: 64px;
+}
